@@ -1,0 +1,21 @@
+{
+  "name": "deleted-button",
+  "version": "1.0.3",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components",
+    "deleted",
+    "delete",
+    "hard-delete",
+    "deletion"
+  ],
+  "main": "deleted-button.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.1",
+    "deleted": "~1.0.3"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.0"
+  }
+}
